@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*
+.venv
+.idea
+/example.py/
+/hint.py/
+/ex45.py/
